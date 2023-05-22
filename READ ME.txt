@@ -1,0 +1,5 @@
+1. When installing, make sure to first create a new folder as a location of the installation
+2. Click Setup1.msi to start the installation
+3. Finish all the required actions by the installer
+4. You now have your very own Music Management System
+5. Have fun
